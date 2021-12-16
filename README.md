@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alejandra or _ _Alefy_ _
+- 👋 Hi, I’m Alejandra or _Alefy_
 - 👀 I’m interested in Frontend and DevOps
 - 🌱 I’m currently learning React in depth
 
