@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alejandra or _Alefy_
-- 👀 I’m interested in Frontend and DevOps
+- 👀 I’m interested in Frontend, DSML, and DevOps
 - 🌱 I’m currently learning React in depth
 
 
